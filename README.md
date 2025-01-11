@@ -21,4 +21,4 @@ Once installed, the button or automation will be active when watching YouTube vi
 If you'd like to contribute to the development of this tool, feel free to fork the repository and submit pull requests. Any suggestions or improvements are welcome.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. ZAPZAP + 5513991807357
