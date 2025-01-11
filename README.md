@@ -8,11 +8,38 @@
 - **User Interface Enhancements**: Improve the YouTube video player interface with additional options.
 - **Compatibility**: Works with major web browsers supporting JavaScript.
 
-## Installation
-To install **autoplayer-button-youtube**, follow these steps:
-1. Download the script or extension from the official repository or website.
-2. Install the script or extension to your browser.
-3. Follow any specific instructions provided for configuration.
+## Installation of Chrome Plugin (Unpacked, Version 1)
+
+To install the **autoplayer-button-youtube** plugin in Chrome, unpackaged, follow these steps:
+
+1. **Download the Plugin:**
+   - Download the plugin version 1 from the official repository or website.
+   - The downloaded file will typically be a ZIP archive.
+
+2. **Unpack the Plugin:**
+   - Extract the contents of the ZIP file to a folder on your computer.
+
+3. **Open Chrome Extensions:**
+   - Open Google Chrome.
+   - In the address bar, type `chrome://extensions` and press Enter.
+   - Alternatively, click on the three-dot menu in the upper-right corner, go to "More Tools," and select "Extensions."
+
+4. **Enable Developer Mode:**
+   - At the top right of the Extensions page, enable **Developer mode** by toggling the switch.
+
+5. **Load the Unpacked Plugin:**
+   - Click the **Load unpacked** button.
+   - In the file dialog that opens, navigate to the folder where you extracted the plugin and select it.
+
+6. **Finish the Installation:**
+   - The plugin will now appear in the list of installed extensions.
+   - Ensure it is enabled by checking the toggle next to its name.
+
+7. **Configuration (Optional):**
+   - If any specific configuration is required, follow the instructions provided by the plugin's documentation.
+
+You're all set! The plugin should now be installed and active in your browser.
+
 
 ## Usage
 Once installed, the button or automation will be active when watching YouTube videos. You can customize its settings to suit your preferences.
